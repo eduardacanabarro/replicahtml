@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+header {
+    background-color: #f50b0b;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.noticia {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+h1 {
+    font-size: 24px;
+    margin-top: 0;
+}
+p {
+    font-size: 16px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ee0b0b;
+    color: white;
+    padding: 10px;
+    text-align: right;
+}
+
+.search-button {
+    
+    margin-right: 20px;
+}
+
+.propaganda {
+    position: fixed;
+    right: 0;
+    top: 50%;
+    background-color: #9de2d6; 
+    transform: translateY(-50%);
+    background-color: #dee4e7;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+}
+
+menu{
+    position: absolute;
+    top: 90px;
+    left: 100px;
+}
+.centro {
+            text-align: center;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #f30303;
+            color: rgb(255, 254, 254);
+            padding: 10px;
+            text-align: right; 
+        }
+
+        .search-bar {
+            display: flex;
+            max-width: 400px;
+        }
+
+        .search-input {
+            flex: 1;
+            padding: 10px;
+            border: none;
+        }
+
+        .search-button {
+            background-color: #f7f4f4; 
+            color: rgb(117, 5, 5);
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+
+        .barra-superior {
+            position: fixed;
+            top: 0;
+            right: 0;
+        
+        }
